@@ -1,131 +1,129 @@
+<div align="center">
+
 # Coşkun Deniz
 
-**Senior .NET Software Engineer**  
-Building modular business platforms, enterprise applications, and process-driven software systems.
+### Software Engineer · Platform Builder · Architecture-Oriented Developer
 
-[LinkedIn](https://tr.linkedin.com/in/coskundeniz89)
+I design and build modular business platforms, enterprise applications, and AI-assisted workflow systems with a strong focus on maintainability, security, automation, and product thinking.
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coşkun%20Deniz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/coskundeniz89)
+[![GitHub](https://img.shields.io/badge/GitHub-coskundeniz89-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coskundeniz89)
 
-## About
-
-I am a Senior .NET Software Engineer focused on designing and developing scalable enterprise software, modular business platforms, and internal process automation systems.
-
-My work combines backend engineering, frontend development, database design, infrastructure, identity management, CI/CD, and software architecture. I enjoy transforming real business workflows into maintainable, secure, and scalable digital platforms.
-
-I mainly work with **.NET, C#, React, Next.js, PostgreSQL, Docker, NGINX, Keycloak, Ocelot API Gateway, JWT, RBAC, Jenkins, GitLab CI/CD, and Bitbucket**.
+</div>
 
 ---
 
-## Professional Focus
+## About Me
 
-- Enterprise software development
-- Modular platform architecture
-- Backend systems with .NET and C#
+I am a software engineer focused on building **enterprise-grade platforms**, **modular business systems**, and **process-driven applications**.
+
+My professional background is strongest in **.NET / C# backend development**, but my work is not limited to backend engineering. I work across the full product and platform lifecycle: business analysis, architecture, database design, API design, frontend development, identity management, deployment, CI/CD, and automation.
+
+I enjoy taking real operational workflows, understanding the business domain behind them, and turning them into scalable, maintainable, and secure software platforms.
+
+---
+
+## What I Work On
+
+- Modular business platform architecture
+- Enterprise application modernization
+- .NET backend systems and REST APIs
 - React / Next.js frontend applications
-- PostgreSQL-based business systems
-- Authentication and authorization flows
+- PostgreSQL-based data models and business databases
+- Authentication, authorization, RBAC, JWT and OIDC flows
 - API Gateway and service-based architectures
-- Dockerized deployments
-- CI/CD pipeline design
-- Business process automation
-- AI-assisted enterprise workflows
+- Dockerized deployments and reverse proxy setups
+- CI/CD pipelines and release workflows
+- Document, mail and workflow automation
+- AI-assisted enterprise and product workflows
 
 ---
 
-## Tech Stack
+## Core Stack
 
-### Backend
+### Backend & APIs
 
-- .NET
-- C#
-- ASP.NET Core
-- REST APIs
-- Entity Framework
-- Background services
-- Multi-threaded applications
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square)
 
 ### Frontend
 
-- React
-- Next.js
-- Ant Design
-- JavaScript
-- TypeScript
-- HTML / CSS
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
 
-### Database
+### Data
 
-- PostgreSQL
-- SQL Server
-- Database design
-- Query optimization
-- Data modeling
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 ### DevOps & Infrastructure
 
-- Docker
-- Docker Compose
-- NGINX
-- Jenkins
-- GitLab CI/CD
-- Bitbucket Pipelines
-- Linux server management
-- Reverse proxy configuration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 
-### Architecture & Security
+### Architecture & Identity
 
-- Modular monolith
-- Microservices
-- API Gateway patterns
-- Ocelot API Gateway
-- Keycloak
-- JWT
-- RBAC
-- OAuth2 / OpenID Connect
-- Identity and access management
+![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square)
+![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat-square)
+![OpenID Connect](https://img.shields.io/badge/OpenID%20Connect-F78C40?style=flat-square)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-2F855A?style=flat-square)
+![API Gateway](https://img.shields.io/badge/API%20Gateway-334155?style=flat-square)
 
 ---
 
-## What I Build
+## Engineering Mindset
 
-I work on business-critical software systems that help teams manage operational workflows more efficiently.
+I care about building software that is not only functional, but also understandable, maintainable and ready to evolve.
 
-My development approach focuses on:
+My approach is based on:
 
-- Understanding the real business process before writing code
-- Designing maintainable and scalable software modules
-- Keeping authentication, authorization, and security clear from the beginning
-- Building reusable backend and frontend foundations
-- Improving deployment reliability with Docker and CI/CD
-- Creating software that can grow from internal tools into full platforms
+- Understanding the domain before designing the system
+- Keeping architecture practical, not over-engineered
+- Designing clear module boundaries and responsibilities
+- Building secure authentication and authorization flows early
+- Creating reusable foundations for future products
+- Automating deployment and release processes where possible
+- Using AI as a practical tool for analysis, documentation and workflow acceleration
 
 ---
 
-## Current Interests
+## Current Focus Areas
 
-I am currently interested in:
-
+- Platform engineering
 - Software architecture
-- Distributed systems
-- Internal enterprise platforms
-- Identity management
-- API Gateway architectures
-- DevOps automation
-- Document and mail automation
-- AI-powered workflow systems
+- Modular monoliths and service-based systems
+- Enterprise workflow automation
+- Identity and access management
+- API Gateway design
+- DevOps and deployment automation
+- AI-assisted business platforms
 - Product-oriented software development
 
 ---
 
 ## Professional Direction
 
-I position myself not only as a software developer, but as an architecture-oriented engineer who can analyze business needs, design technical solutions, and build scalable platforms from end to end.
+I position myself as an **architecture-oriented software engineer** who can connect business needs, product thinking and technical implementation.
 
-My long-term focus is to work on systems where software architecture, product thinking, automation, and AI-supported workflows come together.
+My long-term focus is to build scalable software platforms where **architecture**, **automation**, **domain knowledge**, and **AI-powered workflows** work together to create real business value.
 
 ---
 
-## Contact
+<div align="center">
 
-- LinkedIn: [linkedin.com/in/coskundeniz89](https://tr.linkedin.com/in/coskundeniz89)
+### Connect
+
+[LinkedIn](https://tr.linkedin.com/in/coskundeniz89) · [GitHub](https://github.com/coskundeniz89)
+
+</div>
