@@ -2,40 +2,39 @@
 
 # Coşkun Deniz
 
-### Software Engineer · Platform Builder · Architecture-Oriented Developer
+### Senior .NET Architect | AI Workflow & Enterprise Automation
 
-I design and build modular business platforms, enterprise applications, and AI-assisted workflow systems with a strong focus on maintainability, security, automation, and product thinking.
+I build production-oriented backend systems, AI-assisted workflow tools, and internal business applications.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coşkun%20Deniz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://tr.linkedin.com/in/coskundeniz89)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coşkun%20Deniz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coskundeniz89)
 [![GitHub](https://img.shields.io/badge/GitHub-coskundeniz89-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coskundeniz89)
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I am a software engineer focused on building **enterprise-grade platforms**, **modular business systems**, and **process-driven applications**.
+I am a senior .NET architect and product-minded software engineer focused on reliable backend systems, enterprise workflow automation, and AI-assisted internal tools.
 
-My professional background is strongest in **.NET / C# backend development**, but my work is not limited to backend engineering. I work across the full product and platform lifecycle: business analysis, architecture, database design, API design, frontend development, identity management, deployment, CI/CD, and automation.
+My strongest areas are **.NET / ASP.NET Core**, **PostgreSQL / SQL-backed business systems**, **authentication and authorization**, **Dockerized deployment**, **API integrations**, **workflow automation**, and **maintainable product architecture**.
 
-I enjoy taking real operational workflows, understanding the business domain behind them, and turning them into scalable, maintainable, and secure software platforms.
+I work best where software meets real operations: documents, emails, approvals, tickets, dashboards, user roles, notifications, integrations, technical debt, and business processes that need to become reliable systems.
 
 ---
 
-## What I Work On
+## What I Build
 
-- Modular business platform architecture
-- Enterprise application modernization
-- .NET backend systems and REST APIs
-- React / Next.js frontend applications
-- PostgreSQL-based data models and business databases
-- Authentication, authorization, RBAC, JWT and OIDC flows
-- API Gateway and service-based architectures
-- Dockerized deployments and reverse proxy setups
-- CI/CD pipelines and release workflows
-- Document, mail and workflow automation
-- AI-assisted enterprise and product workflows
+- .NET / ASP.NET Core backend systems and REST APIs
+- AI-assisted internal tools and workflow automation
+- RAG, document processing, and knowledge assistant systems
+- Email-to-ticket and operations automation flows
+- PostgreSQL / SQL-backed business applications
+- Authentication, authorization, RBAC, JWT, OAuth, and OIDC flows
+- Dockerized deployment foundations and production readiness
+- Legacy .NET modernization roadmaps
+- Modular monolith and service-based platform foundations
+- React / Angular / TypeScript interfaces connected to real backend workflows
 
 ---
 
@@ -49,18 +48,20 @@ I enjoy taking real operational workflows, understanding the business domain beh
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square)
 
-### Frontend
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
-
-### Data
+### Data & Workflow
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Workflow Automation](https://img.shields.io/badge/Workflow%20Automation-334155?style=flat-square)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 ### DevOps & Infrastructure
 
@@ -69,7 +70,6 @@ I enjoy taking real operational workflows, understanding the business domain beh
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab%20CI-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=flat-square&logo=bitbucket&logoColor=white)
 
 ### Architecture & Identity
 
@@ -82,41 +82,23 @@ I enjoy taking real operational workflows, understanding the business domain beh
 
 ---
 
-## Engineering Mindset
+## Current Focus
 
-I care about building software that is not only functional, but also understandable, maintainable and ready to evolve.
-
-My approach is based on:
-
-- Understanding the domain before designing the system
-- Keeping architecture practical, not over-engineered
-- Designing clear module boundaries and responsibilities
-- Building secure authentication and authorization flows early
-- Creating reusable foundations for future products
-- Automating deployment and release processes where possible
-- Using AI as a practical tool for analysis, documentation and workflow acceleration
+- AI workflow automation for real business processes
+- Internal tools that connect documents, emails, tickets, and approvals
+- Production-ready .NET backend architecture
+- PostgreSQL-backed SaaS and business systems
+- Authentication and authorization foundations
+- Legacy .NET modernization without unnecessary rewrites
+- Vertical AI product foundations and product-studio workflows
 
 ---
 
-## Current Focus Areas
+## Engineering Approach
 
-- Platform engineering
-- Software architecture
-- Modular monoliths and service-based systems
-- Enterprise workflow automation
-- Identity and access management
-- API Gateway design
-- DevOps and deployment automation
-- AI-assisted business platforms
-- Product-oriented software development
+I do not approach projects as isolated coding tasks. I first try to understand the business process, users, roles, data flow, approvals, documents, notifications, and operational bottlenecks.
 
----
-
-## Professional Direction
-
-I position myself as an **architecture-oriented software engineer** who can connect business needs, product thinking and technical implementation.
-
-My long-term focus is to build scalable software platforms where **architecture**, **automation**, **domain knowledge**, and **AI-powered workflows** work together to create real business value.
+Then I translate that process into a maintainable technical architecture with clear module boundaries, reliable APIs, secure identity flows, practical deployment, and enough structure to evolve without over-engineering.
 
 ---
 
@@ -124,6 +106,6 @@ My long-term focus is to build scalable software platforms where **architecture*
 
 ### Connect
 
-[LinkedIn](https://tr.linkedin.com/in/coskundeniz89) · [GitHub](https://github.com/coskundeniz89)
+[LinkedIn](https://www.linkedin.com/in/coskundeniz89) · [GitHub](https://github.com/coskundeniz89)
 
 </div>
