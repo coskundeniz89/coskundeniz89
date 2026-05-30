@@ -2,9 +2,9 @@
 
 # Coşkun Deniz
 
-### Senior .NET Architect | AI Workflow & Enterprise Automation
+### Senior Full-Stack & Backend Engineer | .NET, Java, AI Workflow
 
-I build production-oriented backend systems, AI-assisted workflow tools, and internal business applications.
+I build production-oriented .NET/Java backend systems, full-stack business applications, AI-assisted workflow tools, and internal business applications.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Coşkun%20Deniz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/coskundeniz89)
 [![GitHub](https://img.shields.io/badge/GitHub-coskundeniz89-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/coskundeniz89)
@@ -15,9 +15,9 @@ I build production-oriented backend systems, AI-assisted workflow tools, and int
 
 ## About
 
-I am a senior .NET architect and product-minded software engineer focused on reliable backend systems, enterprise workflow automation, and AI-assisted internal tools.
+I am a senior full-stack and backend engineer who has been building software professionally since 2012. I have completed 14 years in the industry and I am currently in my 15th year.
 
-My strongest areas are **.NET / ASP.NET Core**, **PostgreSQL / SQL-backed business systems**, **authentication and authorization**, **Dockerized deployment**, **API integrations**, **workflow automation**, and **maintainable product architecture**.
+My strongest areas are **.NET / ASP.NET Core**, **Java / Spring**, **PostgreSQL / SQL-backed business systems**, **authentication and authorization**, **Dockerized deployment**, **API integrations**, **workflow automation**, and **maintainable product architecture**.
 
 I work best where software meets real operations: documents, emails, approvals, tickets, dashboards, user roles, notifications, integrations, technical debt, and business processes that need to become reliable systems.
 
@@ -26,6 +26,8 @@ I work best where software meets real operations: documents, emails, approvals, 
 ## What I Build
 
 - .NET / ASP.NET Core backend systems and REST APIs
+- Java / Spring backend systems
+- Full-stack business applications
 - AI-assisted internal tools and workflow automation
 - RAG, document processing, and knowledge assistant systems
 - Email-to-ticket and operations automation flows
@@ -45,6 +47,8 @@ I work best where software meets real operations: documents, emails, approvals, 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat-square)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=flat-square)
 
@@ -86,7 +90,8 @@ I work best where software meets real operations: documents, emails, approvals, 
 
 - AI workflow automation for real business processes
 - Internal tools that connect documents, emails, tickets, and approvals
-- Production-ready .NET backend architecture
+- Production-ready .NET / Java backend architecture
+- Full-stack business application delivery
 - PostgreSQL-backed SaaS and business systems
 - Authentication and authorization foundations
 - Legacy .NET modernization without unnecessary rewrites
